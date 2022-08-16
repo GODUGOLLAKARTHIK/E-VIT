@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "631530370301",
+    "project_id": "e-vit-b06cd",
+    "storage_bucket": "e-vit-b06cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631530370301:android:cb05fad99baa363f7f7a94",
+        "android_client_info": {
+          "package_name": "com.example.E_VIT"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631530370301-hkk1ifcn19dajlp2br15vvo322o3uepr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ6WIHT9uyxnF6-lXr_pKlILa2Nxsb0SM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631530370301-hkk1ifcn19dajlp2br15vvo322o3uepr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
